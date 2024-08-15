@@ -1,1 +1,3 @@
 # Google-Keep-Clone
+
+Google created the feature-rich note-taking tool Google Keep. It enables users to easily record ideas, lists, and reminders in text, image, and audio formats, among other formats. The application is well-known for its straightforward, user-friendly interface and its smooth connection with other Google services, such as Calendar and Drive. Labels, colors, and checklists make it simple for users to arrange their notes, and since everything is synchronized across devices, users can view their notes from any location. For writing notes on your own or with others, Google Keep is a useful tool that will help you keep organized and productive. This is a clone of the famous Google Keep which behaves same as the originial. Developed using JS. Happy Coding :)
